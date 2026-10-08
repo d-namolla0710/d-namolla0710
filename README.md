@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## 반가워요 👋
 
-> 저는 풀스텍과 AI에 관심이 많은 학생 개발자 '민찬' 이에요!
+> __저는 풀스텍과 AI에 관심이 많은 학생 개발자 '민찬' 이에요!__
 
 ### 관심분야와 잘하는 것
 풀스텍과 AI에 관심이 많아요!
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 저는 요즘 아래와 같은 언어와 IDE를 사용해서 프로젝트를 하고 있고,
 이텔릭체는 공부하고 있는 언어에요.
 #### 마크업 / 프론트엔드 언어
-HTML • CSS • Javascript • _Dart(with Flutter)_
+HTML • CSS • JavaScript • _Dart(with Flutter)_
 #### 백엔드 언어
 Python(with Flask, FastAPI 등등)
 #### 기타 언어
