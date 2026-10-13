@@ -21,14 +21,14 @@
 ### 사용하는 기술
 > *기울임체*는 공부하고 있는 기술이에요.
 
-**프론트엔드** ▪︎ HTML · CSS · JavaScript · *Dart (Flutter)*
-**백엔드** ▪︎ Python (Flask, FastAPI 등)
-**기타** ▪︎ *Kotlin*
-**IDE** ▪ VS Code · JetBrains IDE
+- **프론트엔드** ▪︎ HTML · CSS · JavaScript · *Dart (Flutter)*
+- **백엔드** ▪︎ Python (Flask, FastAPI 등)
+- **기타** ▪︎ *Kotlin*
+- **IDE** ▪ VS Code · JetBrains IDE
 
 [![Skills](https://skillicons.dev/icons?i=html,css,js,dart,flutter,py,flask,fastapi,kotlin,vscode,idea)](https://skillicons.dev)
 
 ### 연락처
 - Email: business@minchan.app
 
-# [포트폴리오 구경하러 가기](https://minchan.app/)
+# [포트폴리오](https://minchan.app/)
