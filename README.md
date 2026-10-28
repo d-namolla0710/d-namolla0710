@@ -36,3 +36,5 @@
 - Email: business@minchan.app
 
 # [포트폴리오](https://minchan.app/)
+
+> ## 마지막 업데이트: 2026.10.28.(수) 23:05
