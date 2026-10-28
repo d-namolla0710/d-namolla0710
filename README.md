@@ -17,10 +17,10 @@
 ### 만든 것
 | 프로젝트 | 설명 |
 | --- | --- |
-| [QR Code 생성기](https://qr.minchan.app) | QR Code 생성 사이트에요. 광고 없이 개성적인 QR Code를 디자인/다운로드 할 수 있어요. |
-| [IDea](https://idea.minchan.app/) | 인스타그램 아이디 추천 사이트에요. 이름과 생일만 넣으면 멋있는 아이디를 추천해줘요. |
-| [온라인 선풍기](https://fan.minchan.app/) | 온라인 선풍기에요. 바람이 나온다고 생각하면 진짜로 나올 수도 있어요. |
-| 표정연기 도우미 | 표정연기을 도와주는 AI 어시스턴트에요. 서비스 중이진 않지만 [여기](https://github.com/d-namolla0710/expression-acting-coach)에서 소스코드를 볼 수 있어요. 이 프로젝트는 LG AI 청소년캠프 3기 23팀 팀원들과 함께했어.요 |
+| [QR Code 생성기](https://qr.minchan.app) | QR Code 생성 사이트예요. 광고 없이 개성적인 QR Code를 디자인/다운로드 할 수 있어요. |
+| [IDea](https://idea.minchan.app/) | 인스타그램 아이디 추천 사이트예요. 이름과 생일만 넣으면 멋있는 아이디를 추천해줘요. |
+| [온라인 선풍기](https://fan.minchan.app/) | 온라인 선풍기예요. 바람이 나온다고 생각하면 진짜로 나올 수도 있어요. |
+| 표정연기 도우미 | 표정연기을 도와주는 AI 어시스턴트예요. 서비스 중이진 않지만 [여기](https://github.com/d-namolla0710/expression-acting-coach)에서 소스코드를 볼 수 있어요. 이 프로젝트는 LG AI 청소년캠프 3기 23팀 팀원들과 함께했어.요 |
 
 ### 사용하는 기술
 > *기울임체*는 공부하고 있는 기술이에요.
