@@ -25,10 +25,10 @@
 ### 사용하는 기술
 > *기울임체*는 공부하고 있는 기술이에요.
 
-- **프론트엔드** ▪︎ HTML · CSS · JavaScript · *Dart (Flutter)*
-- **백엔드** ▪︎ Python (Flask, FastAPI 등)
-- **기타** ▪︎ *Kotlin*
-- **IDE** ▪ VS Code · JetBrains IDE
+- **Front-end** ▪︎ HTML · CSS · JavaScript · *Dart (Flutter)*
+- **Back-end** ▪︎ Python (Flask, FastAPI 등)
+- **Other** ▪︎ *Kotlin*
+- **Tools** ▪ VS Code · JetBrains IDE
 
 [![Skills](https://skillicons.dev/icons?i=html,css,js,dart,flutter,py,flask,fastapi,kotlin,vscode,idea)](https://skillicons.dev)
 
